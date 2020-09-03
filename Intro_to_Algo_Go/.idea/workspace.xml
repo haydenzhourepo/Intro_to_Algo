@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c294416-ba5e-4778-8d2d-1e12adedbbea" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1gzR5hytrjyzqssC5HKtQeW5tAN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestInsertionSort in intro_to_algo_go/chap1" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Intro_to_Algo_Go" />
+      <working_directory value="$PROJECT_DIR$/chap1" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="intro_to_algo_go/chap1" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestInsertionSort$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestInsertionSort in intro_to_algo_go/chap1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="666" y="153" key="#GOROOT" timestamp="1599115270470">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="666" y="153" key="#GOROOT/0.23.1920.1057@0.23.1920.1057" timestamp="1599115270470" />
+    <state x="666" y="153" key="#Go_Modules_(vgo)" timestamp="1599115279718">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="666" y="153" key="#Go_Modules_(vgo)/0.23.1920.1057@0.23.1920.1057" timestamp="1599115279718" />
+    <state width="1271" height="246" key="GridCell.Tab.0.bottom" timestamp="1599115456052">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1271" height="246" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1599115456052" />
+    <state width="1271" height="246" key="GridCell.Tab.0.center" timestamp="1599115456051">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1271" height="246" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1599115456051" />
+    <state width="1271" height="246" key="GridCell.Tab.0.left" timestamp="1599115456051">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1271" height="246" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1599115456051" />
+    <state width="1271" height="246" key="GridCell.Tab.0.right" timestamp="1599115456052">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1271" height="246" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1599115456052" />
+  </component>
+</project>
